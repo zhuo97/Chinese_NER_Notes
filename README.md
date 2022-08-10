@@ -11,7 +11,7 @@
 1. gigaword_chn.all.a2b.uni.ite50.vec
 2. ctb.50d.vec
 
-模型的介绍和使用参考各个文件夹下的说明
+模型的介绍和使用参考各个文件夹下的说明，对应的笔记存放在 notes 文件夹下。
 
 # 参考资料
 1. https://github.com/CLUEbenchmark/CLUENER2020
